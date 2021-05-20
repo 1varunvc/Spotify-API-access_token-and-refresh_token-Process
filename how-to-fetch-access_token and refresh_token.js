@@ -33,5 +33,4 @@ Copy and paste the following code in cmd:
   "access_token": "BQCFsifa8UURfXZB45Nb6ANJVLIhuBC-_1ejvj2y7DnsR9jc042Q-QF4tYufASD8_jdIXMN5ya4tvnX9KZ4NYvMaaIkoB7EDWmdqWnMKoIg8UC8zyU1OvUE4behXpYNTNQkI0bbwxM6n0Pox6lwP8Cj7KRZyjTUxaA",
   "token_type": "Bearer",
   "expires_in": 3600,
-  "refresh_token": "AQAe7HonySukkEBiYhTLAO-5DsmQFbnEvWa38ibJgmIcr9z5Ts0F1tSlCDjKhaTmsBcOK_FfEprS9SG7TeHLpKZIJd8ioGDqpQPdcEv7vYbtVd4KOWnSOfv80W0awRtlbr0"
-}
+  "refresh_token": {refresh_token}
